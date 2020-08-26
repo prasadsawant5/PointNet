@@ -1,0 +1,1 @@
+Point clouds normalized to unit sphere.

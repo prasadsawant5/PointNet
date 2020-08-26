@@ -64,6 +64,7 @@ To train a new model, simply run,
 ```
 python run.py
 ```
+Once training is completed, the weights of the trained model are saved in `saved-model/` directory.
 
 ## Inference
 To perform inference, simply run,
